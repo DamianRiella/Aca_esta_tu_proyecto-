@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1538832059 source:c:\users\alumno\desktop\ejemplop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
+1538832560 c:\users\alumno\desktop\ejemplop1\libreria.h
+
+1538832773 source:c:\users\alumno\desktop\ejemplop1\libreria.c
+	"Libreria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539019848 source:e:\ejemplop1\libreria.c
+	"Libreria.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539020120 e:\ejemplop1\libreria.h
+
+1539020076 source:e:\ejemplop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.h"
+
